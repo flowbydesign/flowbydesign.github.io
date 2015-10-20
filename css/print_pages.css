@@ -1,4 +1,4 @@
-/* ads.css */
+@import url("template.css") screen;
 
 #content > p {font-size: 16px; }
 
@@ -7,5 +7,3 @@
 img {float: left; }
 
 .samples img {margin: 0px 0px 3px 3px; }
-
-#personal {padding-top: 600px; }

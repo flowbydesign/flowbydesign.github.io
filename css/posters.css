@@ -1,0 +1,5 @@
+@import url("print_pages.css") screen;
+
+p {clear: both; }
+
+.clear {padding-top: 15px; }
