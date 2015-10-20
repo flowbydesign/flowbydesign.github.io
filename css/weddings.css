@@ -1,0 +1,11 @@
+@import url("print_pages.css") screen;
+
+p {clear: both; }
+
+.samples {margin-bottom: 20px; }
+
+sup {font-size: 10px; }
+
+#photo {font-style: italic; }
+
+#clear {padding-top: 10px; }
