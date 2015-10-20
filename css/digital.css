@@ -1,4 +1,4 @@
-/* apps.css */
+@import url("template.css") screen;
 
 #content > p {font-size: 16px; }
 
